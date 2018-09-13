@@ -14,7 +14,7 @@ cd ../../
 echo commiting blakwurm.github.com
 cd ../blakwurm.github.com
 git add .
-git commit -m automated commit from https://github.com/blakwurm/blakwurm-site-builder
+git commit -m "automated commit from https://github.com/blakwurm/blakwurm-site-builder"
 git push
 
 cd ../blakwurm
