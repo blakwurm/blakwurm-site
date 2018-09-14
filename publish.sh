@@ -10,7 +10,7 @@ rm -rf ../blakwurm.github.com/*
 cd resources/public
 cp -r * ../../../blakwurm.github.com
 cd ../../
-cp CPNAME ../blakwurm.github.com/CPNAME
+cp CPNAME ../blakwurm.github.com/
 
 echo commiting blakwurm.github.com
 cd ../blakwurm.github.com
