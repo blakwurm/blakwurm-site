@@ -1,9 +1,10 @@
-{:title "Home"
+{:title "Blakwurm Entertainment"
  :layout :page
  :page-index 0
  :navbar? true
  :home? true}
 
-Blakwurm Entertainment provides the absolute best in quality entertainment and entertainment accessories
+Blakwurm Entertainment is creating software services to help people better enjoy their entertainment. 
 
+Our current project is https://yushan.com
 
