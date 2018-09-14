@@ -7,10 +7,10 @@ git push
 echo copying to blakwurm.github.com repo
 
 rm -rf ../blakwurm.github.com/*
+cp CNAME ../blakwurm.github.com
 cd resources/public
 cp -r * ../../../blakwurm.github.com
 cd ../../
-cp CPNAME ../blakwurm.github.com/
 
 echo commiting blakwurm.github.com
 cd ../blakwurm.github.com
